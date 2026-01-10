@@ -2,7 +2,7 @@
 
 🎓 **Cybersecurity Master's Student**  
 💻 **Background in IT Engineering**  
-🔧 **Skills:** Linux, Python, Networking  
+🔧 **Skills:** Linux, Python, Network 
 📞 **Work:** IT Tech 
 
 I am passionate about exploring the world of cybersecurity and continuously enhancing my skills in Linux systems, Python scripting, and networking. With a solid foundation in IT Engineering and hands-on technical support experience, I aim to bridge the gap between technology and security.
