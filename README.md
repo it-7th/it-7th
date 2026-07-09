@@ -1,13 +1,9 @@
-# 👋 Hi, I'm Pedram!
+# 👋 Hi, I'm Pedram
 
-🎓 **Cybersecurity Master's Student**  
-💻 **Background in IT Engineering**  
-🔧 **Skills:** Linux, Python, Network 
-📞 **Work:** IT Tech 
+🎓 Cybersecurity Master's student with a background in IT Engineering.
 
-I am passionate about exploring the world of cybersecurity and continuously enhancing my skills in Linux systems, Python scripting, and networking. With a solid foundation in IT Engineering and hands-on technical support experience, I aim to bridge the gap between technology and security.
+I'm learning offensive security and working toward a career in penetration testing and red teaming. Right now, I spend most of my time in Linux and studying how networks and systems can be attacked and defended.
 
-🌱 **Currently learning:** Advanced cybersecurity principles, ethical hacking, and cryptography 
-💡 **Interests:** Peneteration Testing, threat detection, and cryptography  
-📫 **How to reach me:** https://www.linkedin.com/in/it7th/
-🚀 **Looking for:** Student jobs in IT to apply my skills and gain practical industry experience
+**Working with:** Linux · Networking
+
+**Studying:** Penetration testing · Ethical hacking
